@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/toastmaster-role-timer-154195-154205/toastmaster_timer_frontend"
+}
